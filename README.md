@@ -1,5 +1,7 @@
 # Sphere Evcl
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 ## Описание
 
 Игровой прототип, в котором лабиринт и перемещение игрока проецируются на сферическую поверхность. Проект исследует необычную геометрию пространства и визуализацию клеточного мира не на плоскости, а на псевдо-3D сфере.
@@ -26,3 +28,8 @@ python sphere.py
 ## Статус
 
 WIP. Это концепт-эксперимент с пространственной геометрией и нестандартной подачей лабиринта.
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
